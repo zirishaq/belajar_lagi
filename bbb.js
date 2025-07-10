@@ -1,1 +1,1 @@
-console.log ("git baru")
+console.log ("git dan baru")
